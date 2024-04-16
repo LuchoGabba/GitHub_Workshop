@@ -4,6 +4,14 @@
 
 2- math_livecoding: Linear Algebra with NumPy
 
+Machine Learning:
+
+3- Color reduction with cluster algorithms (K-Means)
+
+4- Forecasting Non-Farm Payrolls With Linear Regression
+
+5- Causal Interference
+
 ## Getting Started
 
 1. **Fork the Repository:** Start by forking this repository to your GitHub account. This will be your working space for the workshop.
