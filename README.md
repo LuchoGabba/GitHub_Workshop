@@ -2,17 +2,19 @@
 
 Basics:
 
-1- eda_titanic: Exploratory Data Analysis (EDA) Challenge
+1-eda_titanic: Exploratory Data Analysis (EDA) Challenge
 
-2- math_livecoding: Linear Algebra with NumPy
+2-etl_wheather_api: Extract, Transform and load data to construct a whather API
+
+3-math_livecoding: Linear Algebra with NumPy
 
 Machine Learning:
 
-3- Color reduction with cluster algorithms (K-Means)
+4-forecasting_nfp_lr: Forecasting Non-Farm Payrolls With Linear Regression
 
-4- Forecasting Non-Farm Payrolls With Linear Regression
+5-color_reduction: Color reduction with cluster algorithms (K-Means)
 
-5- Causal Interference
+6-causal_inference: Causal Interference
 
 ## Getting Started
 
